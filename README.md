@@ -1,4 +1,4 @@
 # aditya-demo
 This is my first Git Repository.
-\n
+<br>
 Author - Aditya Kumar Chaurasia  
